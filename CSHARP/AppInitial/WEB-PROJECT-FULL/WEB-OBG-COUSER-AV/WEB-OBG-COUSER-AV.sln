@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB-OBG-COUSER-AV", "WEB-OBG-COUSER-AV.csproj", "{3718B41A-D284-40EC-94FA-8859C2AE91BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projetodois", "..\Projetodois\Projetodois.csproj", "{C7D85CBD-E9ED-4173-9037-2BB3DAEBC650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3718B41A-D284-40EC-94FA-8859C2AE91BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3718B41A-D284-40EC-94FA-8859C2AE91BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3718B41A-D284-40EC-94FA-8859C2AE91BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3718B41A-D284-40EC-94FA-8859C2AE91BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D85CBD-E9ED-4173-9037-2BB3DAEBC650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D85CBD-E9ED-4173-9037-2BB3DAEBC650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D85CBD-E9ED-4173-9037-2BB3DAEBC650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D85CBD-E9ED-4173-9037-2BB3DAEBC650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {554CCC97-6065-45C6-B45B-89F5FC83B914}
+	EndGlobalSection
+EndGlobal
