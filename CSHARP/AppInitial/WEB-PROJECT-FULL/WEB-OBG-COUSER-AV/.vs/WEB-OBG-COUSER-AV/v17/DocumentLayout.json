@@ -1,7 +1,17 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\WEB-OBG-COUSER-AV\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E814938-012D-4ADC-A5D9-466F0BD08C1F}|..\\primaryAPI\\primaryAPI.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\primaryapi\\controller\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E814938-012D-4ADC-A5D9-466F0BD08C1F}|..\\primaryAPI\\primaryAPI.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\primaryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E814938-012D-4ADC-A5D9-466F0BD08C1F}|..\\primaryAPI\\primaryAPI.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\primaryapi\\controller\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +32,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Controller\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "..\\primaryAPI\\Controller\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Controller\\ProdutoController.cs",
+              "RelativeToolTip": "..\\primaryAPI\\Controller\\ProdutoController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T14:24:21.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Controller\\HelloController.cs",
+              "RelativeDocumentMoniker": "..\\primaryAPI\\Controller\\HelloController.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Controller\\HelloController.cs",
+              "RelativeToolTip": "..\\primaryAPI\\Controller\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:24:23.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\primaryAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Program.cs",
+              "RelativeToolTip": "..\\primaryAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:23:27.599Z",
+              "EditorCaption": ""
             }
           ]
         }

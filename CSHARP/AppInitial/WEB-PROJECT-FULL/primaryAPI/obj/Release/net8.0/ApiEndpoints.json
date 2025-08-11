@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "primaryAPI.Controller.HelloController",
+    "Method": "Get",
+    "RelativePath": "api/Hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "primaryAPI.Controller.ProdutoController",
+    "Method": "Post",
+    "RelativePath": "api/Produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novoProduto",
+        "Type": "primaryAPI.Model.Produto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "primaryAPI.Controller.ProdutoController",
+    "Method": "GetById",
+    "RelativePath": "api/Produto/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "primaryAPI.Controller.ProdutoController",
+    "Method": "DeleteById",
+    "RelativePath": "api/Produto/DeletProducts{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "primaryAPI.Controller.ProdutoController",
+    "Method": "GetAllProdutos",
+    "RelativePath": "api/Produto/GetAllProdutos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "primaryAPI.Controller.ProdutoController",
+    "Method": "UpdateProduto",
+    "RelativePath": "api/Produto/UpdateProduto{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoAtualizado",
+        "Type": "primaryAPI.Model.Produto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
