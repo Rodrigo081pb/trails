@@ -4,6 +4,9 @@
 }
 
 <h2>Lista de produtos</h2>
+<p>
+    
+</p>
 <table>
     <thead>
         <tr>
@@ -13,23 +16,21 @@
             <th>Ações</th>
         </tr>
     </thead>
-
+    <a asp-action="Create" class="btn btn-primary">Criar Produto</a>
     <tbody>
         @foreach (var produtos in Model)
         {
             <tr>
                 <td>@produtos.Id</td>
                 <td>@produtos.Nome</td>
-                <td>@produtos.Preco</td>
+                <td>@produtos.Preco.ToString("C")</td>
                 <td>                    
-                    @*Ação para criar um produto*@
-
-
-                    <a asp-action="Edit" asp-route-id="@produtos.Id">Editar</a>
-                    <a asp-action="Delete" asp-route-id="@produtos.Id">Excluir</a>
+                    <a asp-action="Edit" asp-route-id="@produtos.Id">Editar</a> |
+                    <a asp-action="Excluir" asp-route-id="@produtos.Id">Excluir</a>
 
                 </td>
             </tr>
+            
         }
     
     </tbody>

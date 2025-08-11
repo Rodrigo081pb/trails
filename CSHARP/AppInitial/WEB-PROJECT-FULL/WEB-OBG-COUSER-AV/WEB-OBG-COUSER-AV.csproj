@@ -79,9 +79,12 @@
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="MVCPROJECT\Controllers\ProdutoController.cs" />
+    <Compile Include="MVCPROJECT\Views\Produto\Edit.cshtml.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="MVCPROJECT\Pages\Produto\Edit.cshtml" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
