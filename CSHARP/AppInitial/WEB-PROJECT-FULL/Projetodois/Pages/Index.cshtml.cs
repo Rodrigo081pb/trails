@@ -16,5 +16,26 @@ namespace Projetodois.Pages
         {
 
         }
+
+        //propriedades para capturar os dados do formulario
+        
+        [BindProperty]
+        public string Nome { get; set; }
+
+        [BindProperty]
+        public int Idade { get; set; }
+    
+        public IActionResult OnPost()
+        {
+            if(Idade <= 0)
+            {
+                ModelState.AddModelError("Idade", "A idade deve ser maior que zero.");
+                return Page();
+            }
+
+            // retornar a página com os dados capturados
+            return Page();
+
+        }
     }
 }

@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\WEB-OBG-COUSER-AV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7D85CBD-E9ED-4173-9037-2BB3DAEBC650}|..\\Projetodois\\Projetodois.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\projetodois\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E3850C3-F7B3-407F-B5FA-692C16FC42B4}|..\\MVCPROJECT\\MVCPROJECT.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\mvcproject\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3850C3-F7B3-407F-B5FA-692C16FC42B4}|..\\MVCPROJECT\\MVCPROJECT.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\mvcproject\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3850C3-F7B3-407F-B5FA-692C16FC42B4}|..\\MVCPROJECT\\MVCPROJECT.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\mvcproject\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3850C3-F7B3-407F-B5FA-692C16FC42B4}|..\\MVCPROJECT\\MVCPROJECT.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\mvcproject\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3850C3-F7B3-407F-B5FA-692C16FC42B4}|..\\MVCPROJECT\\MVCPROJECT.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\mvcproject\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,14 +42,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\Projetodois\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\Projetodois\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\Projetodois\\Pages\\Index.cshtml",
-              "RelativeToolTip": "..\\Projetodois\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA4AAAAyAAAAAAAAAA==",
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "..\\MVCPROJECT\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "..\\MVCPROJECT\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:10:05.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "..\\MVCPROJECT\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Models\\Produto.cs",
+              "RelativeToolTip": "..\\MVCPROJECT\\Models\\Produto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:09:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Views\\Produto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\MVCPROJECT\\Views\\Produto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Views\\Produto\\Edit.cshtml",
+              "RelativeToolTip": "..\\MVCPROJECT\\Views\\Produto\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-09T14:56:12.958Z",
+              "WhenOpened": "2025-08-11T02:07:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MVCPROJECT\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "..\\MVCPROJECT\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T02:06:57.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\MVCPROJECT\\Views\\Produto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\MVCPROJECT\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "..\\MVCPROJECT\\Views\\Produto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T02:05:32.688Z",
               "EditorCaption": ""
             }
           ]

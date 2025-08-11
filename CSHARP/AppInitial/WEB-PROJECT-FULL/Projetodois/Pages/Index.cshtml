@@ -15,14 +15,82 @@
         <h2>Data e hora atual : @DateTime.Now</h2>
 
         @* Declarando variáveis *@
-        @{
+@*         @{
             string nome = "Rodrigo";
-        }
+        } *@
 
         @* exibindo as variáveis *@
-        <h1>Olá @nome</h1>
+@*         <h1>Olá @nome</h1> *@
 
         <h2>A soma de 2 + 2: @(2+2)</h2>
+
+        <h3>Lista com nomes</h3>
+@* 
+        @{
+            var nomes = new List<string> { "Rodrigo", "Messias" };
+        } *@
+
+        <ul>
+@*             @foreach (var nome1 in nomes)
+            {
+                <li>@nome1</li>
+            } *@
+        </ul>
+
+        <h1>Saudações de acordo com hora atual</h1>
+
+        @* <input type="text" name="sobrenome" /> *@
+        
+        @Html.TextBox("sobrenome")
+            
+        @{
+
+            var Hora = DateTime.Now.Hour;
+
+            if (Hora < 12)
+            {
+                <h2>Bom dia!</h2>
+            }
+            else if (Hora < 18)
+            {
+                <h2>Boa tarde!</h2>
+            }
+            else
+            {
+                <h2>Boa noite!</h2>
+            }
+        }
+
+        <h2>Hora atual: @Hora</h2>
+
+        <ul>
+            @* contador de 1 até 10 *@
+            @{
+                for (int i = 1; i <= 10; i++)
+                {
+                    <li>@i</li>
+                }
+        }
+        </ul>
+
+        @* Criando um formulário simples para preencher nome e idade *@
+        <h2>Formulário de Cadastro</h2>
+        <form method="post">
+            @* <label for="nome">Digite seu nome:</label> *@
+            @Html.Label("Digite seu nome")"
+            <input type="text" id="nome" name="nome" required />
+            <br />
+            <label for="idade">Digite sua idade</label>
+            <input type="number" id="idade" name="idade" required />
+            <br />
+            <button type="submit">Enviar</button>
+        </form>
+
+        @if (Model.Nome != null)
+        {
+            <p><strong>Nome</strong>@Model.Nome</p>
+            <p><strong>Idade</strong>@Model.Idade</p>
+        }
 
     </body>
 </html>
