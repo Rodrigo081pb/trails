@@ -1,0 +1,45 @@
+﻿using System;
+using System.Linq;
+using Microsoft.EntityFrameworkCore;
+using ProjetoEntityFramework.Model;
+using ProjetoEntityFramework.Data;
+//DataBase.Database.Migrate();
+
+// ORM - Object Relational Mapping - Mapeamento Objeto Relacional
+
+// Code First - Primeiro o Código depois o Banco de Dados
+
+public class Program
+{
+    static void Main()
+    {
+         public class ApplicationDbContext : DbContext
+        {
+            public DbSet<Produto> Produto { get; set; }
+
+            protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+            {
+                optionsBuilder.UseSqlServer("server=localhost;database=lojinhas;trusted_connection=True;trustservercertificate=True;");
+            }
+        }
+
+        using (var DataBase = new ApplicationDbContext())
+        {
+            // Create
+            var novoProduto = new Produto
+            {
+                Nome = "Teclado",
+                Preco = 150.00m
+            };
+
+            DataBase.Produto.Add(novoProduto);
+
+            DataBase.SaveChanges();
+
+        }
+    }
+}
+
+
+
+

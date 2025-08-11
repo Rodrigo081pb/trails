@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA5CD82-4727-4D02-F35E-0B2ABAE3DC80}|ProjetoEntityFramework.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\projetoentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA5CD82-4727-4D02-F35E-0B2ABAE3DC80}|ProjetoEntityFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA5CD82-4727-4D02-F35E-0B2ABAE3DC80}|ProjetoEntityFramework.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\projetoentityframework\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA5CD82-4727-4D02-F35E-0B2ABAE3DC80}|ProjetoEntityFramework.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:25:34.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:25:25.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

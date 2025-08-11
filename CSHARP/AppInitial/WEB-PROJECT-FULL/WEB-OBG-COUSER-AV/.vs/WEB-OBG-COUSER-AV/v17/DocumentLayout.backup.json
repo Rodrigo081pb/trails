@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\WEB-OBG-COUSER-AV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E814938-012D-4ADC-A5D9-466F0BD08C1F}|..\\primaryAPI\\primaryAPI.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\primaryapi\\controller\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFB2F279-BA5C-43D6-A360-9A6A88E567B0}|..\\ProjetoEntityFramework\\ProjetoEntityFramework.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\projetoentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E814938-012D-4ADC-A5D9-466F0BD08C1F}|..\\primaryAPI\\primaryAPI.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\primaryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFB2F279-BA5C-43D6-A360-9A6A88E567B0}|..\\ProjetoEntityFramework\\ProjetoEntityFramework.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\projetoentityframework\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E814938-012D-4ADC-A5D9-466F0BD08C1F}|..\\primaryAPI\\primaryAPI.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\primaryapi\\controller\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFB2F279-BA5C-43D6-A360-9A6A88E567B0}|..\\ProjetoEntityFramework\\ProjetoEntityFramework.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\projetoentityframework\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB2F279-BA5C-43D6-A360-9A6A88E567B0}|..\\ProjetoEntityFramework\\ProjetoEntityFramework.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\appinitial\\web-project-full\\projetoentityframework\\projetoentityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,41 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Controller\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "..\\primaryAPI\\Controller\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Controller\\ProdutoController.cs",
-              "RelativeToolTip": "..\\primaryAPI\\Controller\\ProdutoController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T14:24:21.223Z",
+              "DocumentIndex": 3,
+              "Title": "ProjetoEntityFramework",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\ProjetoEntityFramework.csproj",
+              "RelativeDocumentMoniker": "..\\ProjetoEntityFramework\\ProjetoEntityFramework.csproj",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\ProjetoEntityFramework.csproj",
+              "RelativeToolTip": "..\\ProjetoEntityFramework\\ProjetoEntityFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T15:56:21.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HelloController.cs",
-              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Controller\\HelloController.cs",
-              "RelativeDocumentMoniker": "..\\primaryAPI\\Controller\\HelloController.cs",
-              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Controller\\HelloController.cs",
-              "RelativeToolTip": "..\\primaryAPI\\Controller\\HelloController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoEntityFramework\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Data\\DbContext.cs",
+              "RelativeToolTip": "..\\ProjetoEntityFramework\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T13:24:23.02Z",
+              "WhenOpened": "2025-08-11T15:10:07.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Program.cs",
-              "RelativeDocumentMoniker": "..\\primaryAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\primaryAPI\\Program.cs",
-              "RelativeToolTip": "..\\primaryAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoEntityFramework\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Model\\Produto.cs",
+              "RelativeToolTip": "..\\ProjetoEntityFramework\\Model\\Produto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T13:23:27.599Z",
+              "WhenOpened": "2025-08-11T15:07:52.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoEntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\AppInitial\\WEB-PROJECT-FULL\\ProjetoEntityFramework\\Program.cs",
+              "RelativeToolTip": "..\\ProjetoEntityFramework\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:04:08.389Z",
               "EditorCaption": ""
             }
           ]
