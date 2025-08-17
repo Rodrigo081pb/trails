@@ -1,0 +1,7 @@
+﻿// Cria o db context 
+using Microsoft.EntityFrameworkCore;
+using Estacionamento.Models;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+

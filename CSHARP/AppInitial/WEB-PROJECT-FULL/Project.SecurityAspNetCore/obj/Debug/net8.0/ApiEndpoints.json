@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "Project.SecurityAspNetCore.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "senha",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project.SecurityAspNetCore.Controllers.AdminController",
+    "Method": "Dashboard",
+    "RelativePath": "admin/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

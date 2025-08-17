@@ -1,0 +1,64 @@
+﻿using System.Text.Json;
+using Estacionamento.Models;
+
+namespace Estacionamento.Repositories
+{
+    public class VeiculoRepository
+    {
+        private readonly string _filePath = "veiculos.json";
+        private List<Veiculo> veiculos;
+
+        public VeiculoRepository()
+        {
+            veiculos = CarregarVeiculos();
+        }
+
+        private List<Veiculo> CarregarVeiculos()
+        {
+            if (!File.Exists(_filePath))
+                return new List<Veiculo>();
+            var json = File.ReadAllText(_filePath);
+            return JsonSerializer.Deserialize<List<Veiculo>>(json) ?? new List<Veiculo>();
+        }
+
+        private void SalvarVeiculos()
+        {
+            var json = JsonSerializer.Serialize(veiculos);
+            File.WriteAllText(_filePath, json);
+        }
+
+        public IEnumerable<Veiculo> ListarTodos()
+        {
+            return veiculos;
+        }
+
+        public Veiculo? BuscarPorPlaca(string placa)
+        {
+            return veiculos.FirstOrDefault(v => v.Placa == placa);
+        }
+
+        public void Adicionar(Veiculo veiculo)
+        {
+            veiculos.Add(veiculo);
+            SalvarVeiculos();
+        }
+
+        public bool Remover(string placa)
+        {
+            var veiculo = BuscarPorPlaca(placa);
+            if (veiculo == null) return false;
+            veiculos.Remove(veiculo);
+            SalvarVeiculos();
+            return true;
+        }
+
+        public bool Atualizar(Veiculo veiculoAtualizado)
+        {
+            var veiculo = BuscarPorPlaca(veiculoAtualizado.Placa!);
+            if (veiculo == null) return false;
+            veiculo.Modelo = veiculoAtualizado.Modelo;
+            SalvarVeiculos();
+            return true;
+        }
+    }
+}

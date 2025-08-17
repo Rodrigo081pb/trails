@@ -1,0 +1,26 @@
+﻿using Estacionamento.Models;
+using Microsoft.AspNetCore.Mvc;
+
+namespace Estacionamento.Controllers
+
+{
+    [ApiController]
+    [Route("api/v1")]
+    public class VeiculoController : Controller
+    {
+        // Criar um endpoint post para adicionar um veículo
+        [HttpPost]
+        [Route("/veiculo/adicionar")]
+        public IActionResult AdicionarVeiculo(string placa, string modelo)
+        {
+            // Aqui você pode adicionar a lógica para adicionar o veículo ao repositório
+            if (string.IsNullOrEmpty(placa) || string.IsNullOrEmpty(modelo))
+            {
+                return BadRequest(new { mensagem = "Placa e modelo são obrigatórios." });
+            }
+            return Ok(new { mensagem = "Veículo adicionado com sucesso!" });
+        }
+
+
+    }
+}
