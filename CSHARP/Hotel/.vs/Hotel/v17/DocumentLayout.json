@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D102A91-D6D7-4A9A-9B38-E789ECAFB62D}|Hotel.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D102A91-D6D7-4A9A-9B38-E789ECAFB62D}|Hotel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D102A91-D6D7-4A9A-9B38-E789ECAFB62D}|Hotel.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\hotel\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D102A91-D6D7-4A9A-9B38-E789ECAFB62D}|Hotel.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D102A91-D6D7-4A9A-9B38-E789ECAFB62D}|Hotel.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\hotel\\models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D102A91-D6D7-4A9A-9B38-E789ECAFB62D}|Hotel.csproj|solutionrelative:models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D102A91-D6D7-4A9A-9B38-E789ECAFB62D}|Hotel.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\hotel\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D102A91-D6D7-4A9A-9B38-E789ECAFB62D}|Hotel.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\Hotel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:20:02.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\Hotel\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\Hotel\\Models\\Reserva.cs",
+              "RelativeToolTip": "Models\\Reserva.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:45:23.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suite.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\Hotel\\Models\\Suite.cs",
+              "RelativeDocumentMoniker": "Models\\Suite.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\Hotel\\Models\\Suite.cs",
+              "RelativeToolTip": "Models\\Suite.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:45:01.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\Hotel\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\Hotel\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Models\\Pessoa.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:44:46.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\bin\Debug\net8.0\PropriedadesAndMetodosAndContrutores.exe
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\bin\Debug\net8.0\PropriedadesAndMetodosAndContrutores.deps.json
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\bin\Debug\net8.0\PropriedadesAndMetodosAndContrutores.runtimeconfig.json
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\bin\Debug\net8.0\PropriedadesAndMetodosAndContrutores.dll
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\bin\Debug\net8.0\PropriedadesAndMetodosAndContrutores.pdb
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\PropriedadesAndMetodosAndContrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\PropriedadesAndMetodosAndContrutores.AssemblyInfoInputs.cache
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\PropriedadesAndMetodosAndContrutores.AssemblyInfo.cs
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\PropriedadesAndMetodosAndContrutores.csproj.CoreCompileInputs.cache
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\PropriedadesAndMetodosAndContrutores.sourcelink.json
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\PropriedadesAndMetodosAndContrutores.dll
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\refint\PropriedadesAndMetodosAndContrutores.dll
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\PropriedadesAndMetodosAndContrutores.pdb
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\PropriedadesAndMetodosAndContrutores.genruntimeconfig.cache
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\PropriedadesAndMetodosAndContrutores\obj\Debug\net8.0\ref\PropriedadesAndMetodosAndContrutores.dll

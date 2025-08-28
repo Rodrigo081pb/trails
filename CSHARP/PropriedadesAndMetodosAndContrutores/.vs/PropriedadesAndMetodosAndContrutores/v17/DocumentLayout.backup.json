@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\PropriedadesAndMetodosAndContrutores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB92AD-7464-4769-8D3D-A270332F6D70}|PropriedadesAndMetodosAndContrutores.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\propriedadesandmetodosandcontrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB92AD-7464-4769-8D3D-A270332F6D70}|PropriedadesAndMetodosAndContrutores.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB92AD-7464-4769-8D3D-A270332F6D70}|PropriedadesAndMetodosAndContrutores.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\propriedadesandmetodosandcontrutores\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB92AD-7464-4769-8D3D-A270332F6D70}|PropriedadesAndMetodosAndContrutores.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB92AD-7464-4769-8D3D-A270332F6D70}|PropriedadesAndMetodosAndContrutores.csproj|c:\\users\\r.pinheiro.braga\\desktop\\avanade-cursos-obg\\csharp\\propriedadesandmetodosandcontrutores\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB92AD-7464-4769-8D3D-A270332F6D70}|PropriedadesAndMetodosAndContrutores.csproj|solutionrelative:models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\PropriedadesAndMetodosAndContrutores\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\PropriedadesAndMetodosAndContrutores\\Models\\Curso.cs",
+              "RelativeToolTip": "Models\\Curso.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:49:21.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\PropriedadesAndMetodosAndContrutores\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\PropriedadesAndMetodosAndContrutores\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Models\\Pessoa.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:09:57.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\PropriedadesAndMetodosAndContrutores\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\r.pinheiro.braga\\Desktop\\AVANADE-CURSOS-OBG\\CSHARP\\PropriedadesAndMetodosAndContrutores\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:08:10.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
