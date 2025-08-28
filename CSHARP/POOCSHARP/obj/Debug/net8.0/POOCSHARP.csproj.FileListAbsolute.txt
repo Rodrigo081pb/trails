@@ -1,0 +1,15 @@
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\POOCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\POOCSHARP.AssemblyInfoInputs.cache
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\POOCSHARP.AssemblyInfo.cs
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\POOCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\POOCSHARP.sourcelink.json
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\bin\Debug\net8.0\POOCSHARP.exe
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\bin\Debug\net8.0\POOCSHARP.deps.json
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\bin\Debug\net8.0\POOCSHARP.runtimeconfig.json
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\bin\Debug\net8.0\POOCSHARP.dll
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\bin\Debug\net8.0\POOCSHARP.pdb
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\POOCSHARP.dll
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\refint\POOCSHARP.dll
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\POOCSHARP.pdb
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\POOCSHARP.genruntimeconfig.cache
+C:\Users\r.pinheiro.braga\Desktop\AVANADE-CURSOS-OBG\CSHARP\POOCSHARP\obj\Debug\net8.0\ref\POOCSHARP.dll
