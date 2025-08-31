@@ -1,5 +1,10 @@
 ﻿using POOCSHARP.Models;
 
+Corrente corrente = new Corrente();
+corrente.Creditar(500);
+Console.WriteLine($"Saldo da conta corrente: {corrente.ExibirSaldo}");
+
+
 Pessoa p1 = new Pessoa();
 p1.Nome = "João";
 p1.idade = 25;

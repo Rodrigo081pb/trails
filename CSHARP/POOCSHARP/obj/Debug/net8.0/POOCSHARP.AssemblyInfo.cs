@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POOCSHARP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87f6b983b168c078505caca476b68ecb7de0dd8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1154fd82b5b32fb61ab862c75b6a07230f5c6945")]
 [assembly: System.Reflection.AssemblyProductAttribute("POOCSHARP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POOCSHARP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

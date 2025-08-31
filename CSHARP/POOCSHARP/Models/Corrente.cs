@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace POOCSHARP.Models
 {
-    public class Professor : Pessoa
+    public class Corrente : Conta
     {
-        public Professor(string nome) : base(nome)
+        public override void Creditar(decimal valor)
         {
+            Saldo += valor;
         }
-
-        public double Salario { get; set; }
     }
 }
