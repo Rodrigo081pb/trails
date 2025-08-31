@@ -11,7 +11,7 @@ namespace POOCSHARP.Models
         public string? Nome { get; set; }
         public int idade { get; set; }
 
-        public void apresentar()
+        public virtual void apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome} e tenho {idade} anos.");
         }

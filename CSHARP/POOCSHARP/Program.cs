@@ -16,3 +16,11 @@ aluno.Nome = "Roberto";
 aluno.idade = 12;
 aluno.Nota = 10;
 aluno.apresentar();
+
+// Polimorfismo
+
+Professor professor = new Professor();
+professor.Nome = "Ana";
+professor.idade = 30;
+professor.Salario = 3000; 
+professor.apresentar();

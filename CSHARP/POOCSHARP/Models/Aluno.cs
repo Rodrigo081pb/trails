@@ -10,5 +10,10 @@ namespace POOCSHARP.Models
     {
         public double Nota { get; set; }
 
+        public override void apresentar()
+        {
+            Console.WriteLine($"Olá me chamo {Nome} e sou um aluno nota {Nota}.");
+        }
+
     }
 }
