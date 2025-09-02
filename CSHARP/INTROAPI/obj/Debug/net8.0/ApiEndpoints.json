@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "INTROAPI.Controllers.UserController",
+    "Method": "ObterDataHora",
+    "RelativePath": "api/User/ObterDataHora",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
