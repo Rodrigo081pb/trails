@@ -1,12 +1,65 @@
 [
   {
     "ContainingType": "INTROAPI.Controllers.UserController",
+    "Method": "Apresentar",
+    "RelativePath": "api/User/Apresentar/{nome}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "INTROAPI.Controllers.UserController",
+    "Method": "Calcular",
+    "RelativePath": "api/User/Calcular",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "INTROAPI.Controllers.UserController",
     "Method": "ObterDataHora",
     "RelativePath": "api/User/ObterDataHora",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "INTROAPI.Controllers.UserController",
+    "Method": "Usuario",
+    "RelativePath": "api/User/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "INTROAPI.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]

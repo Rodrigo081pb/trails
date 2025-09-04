@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "Calc.Controllers.CalculadoraController",
+    "Method": "Somar",
+    "RelativePath": "api/somar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
